@@ -1,0 +1,15 @@
+p {
+    border: 1px solid;
+    border-color: black;
+    color: blue;
+    background-color: gray;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+#id6 {
+    font-size: 2em ;
+}
+

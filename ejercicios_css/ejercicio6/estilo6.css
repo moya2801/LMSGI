@@ -1,0 +1,18 @@
+.capa1{
+    font: size 100%;
+    border: black 1px solid;
+    width: 50%;
+    text-align: center;
+}
+.capa2{
+    font: size 120%;
+    border: blue 1px solid;
+    width: 33%;
+    text-align: center;
+}
+.capa3{
+    font: size 60%;
+    border: red 1px solid;
+    width: 20%;
+    text-align: center;
+}

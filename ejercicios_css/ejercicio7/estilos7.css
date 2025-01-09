@@ -1,0 +1,41 @@
+
+body, html {
+    width: 100%;
+    height: 100%;
+}
+
+
+.capa1 {
+    background-color: #FF5733; 
+    width: 100%;
+    height: 25%;
+    position: relative;
+}
+.capa2 { 
+    background-color: #33FF57; 
+    width: 100%;
+    height: 25%;
+    position: relative;
+}
+.capa3 { 
+    background-color: #3357FF;
+    width: 100%;
+    height: 25%;
+    position: relative;
+ }
+.capa4 {
+    background-color: #FF33A1;
+    width: 100%;
+    height: 25%;
+    position: relative;
+    }
+
+.capa-interna {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    background-color: grey 
+}
+

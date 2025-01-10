@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+}
+
+p {
+    border-width: 5px;
+    border-style: solid;
+}
+
+#parrafo1 {
+    border-color: green;
+    background-color: greenyellow;
+    margin: 0px;
+    padding: 0px;
+}
+
+#parrafo2 {
+    border-color: orangered;
+    background-color: orange;
+    margin: 5px;
+    padding: 5px;
+}
+
+#parrafo3 {
+    border-color: blue;
+    background-color: lightskyblue;
+    margin: 0px;
+    padding: 20px;
+}

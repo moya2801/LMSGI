@@ -9,30 +9,36 @@ body, html {
     background-color: #FF5733; 
     width: 100%;
     height: 25%;
-    position: relative;
+    margin-top: 0;
+    position: absolute;
+
 }
 .capa2 { 
     background-color: #33FF57; 
     width: 100%;
     height: 25%;
-    position: relative;
+    margin-top: 61%;
+    position: absolute;
 }
 .capa3 { 
     background-color: #3357FF;
     width: 100%;
     height: 25%;
-    position: relative;
+    margin-top: 122%;
+    position: absolute;
  }
 .capa4 {
     background-color: #FF33A1;
     width: 100%;
     height: 25%;
-    position: relative;
+    margin-top: 183%;
+    position: absolute;
     }
 
 .capa-interna {
     width: 50%;
     height: 50%;
+    margin-top: auto;
     position: absolute;
     top: 25%;
     left: 25%;

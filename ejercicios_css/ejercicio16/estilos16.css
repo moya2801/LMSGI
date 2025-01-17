@@ -6,17 +6,17 @@
 
 #SupI{
     float: left;
-    margin-top: 8px;
+    margin-top: 5px;
     margin-left: 20px;
 }
 
-h1, #SupI{
+#SupI h1{
     color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}´
-h3, #SupI{
-    color: blue ;
 }
+#SupI h3{
+    color: blue ;
+}   
 fieldset{
     color: rgb(116, 125, 70);
 }
@@ -39,11 +39,11 @@ label{
 #MedI{
     float: left;
     margin-left: 2%;
-    margin-top: 1px;
+    margin-top: 3px;
     width: 47%;
 }
 #MedD{
-    float: left;
+    float: right;
     margin-left: 2%;
     width: 47%;
     margin-right: 2%;
